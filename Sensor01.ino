@@ -1,3 +1,7 @@
+/* Sensor01 collects sensor data from external sensors and sends it to HomeAssistant via MQTT
+ * Author: Tore Green
+ */
+
 // disable alarm support in DallasTemperature
 #define REQUIREALARMS false
 #include <DallasTemperature.h>
