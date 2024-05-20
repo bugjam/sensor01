@@ -1,0 +1,6 @@
+{
+    "sketch": "Sensor01.ino",
+    "board": "arduino:renesas_uno:unor4wifi",
+    "output": "../ArdionoOutput",
+    "port": "COM3"
+}
